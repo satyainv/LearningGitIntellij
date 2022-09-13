@@ -9,6 +9,6 @@ import junit.framework.TestSuite;
  */
 public class AppTest {
     public static void main(String[] args) {
-        System.out.println("hello satya this is test class for forking");
+        System.out.println("hello satya this is test class for forking as per review");
     }
 }
